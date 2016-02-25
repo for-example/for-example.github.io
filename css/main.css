@@ -1,0 +1,20 @@
+body {
+  font : 16px Tahoma, Verdana, Helvetica, Arial, sans-serif;
+}
+
+#main {
+  margin-left : 50px;
+  margin-top  : 50px;
+}
+ 
+#main ul {
+  list-style-type : none;
+}
+
+#main ul  li{
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+}  
